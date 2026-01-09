@@ -8,7 +8,7 @@ const collections = [
     id: 'men',
     name: 'Men Collection',
     description: 'Sophisticated styles for the modern gentleman',
-    image: 'https://images.unsplash.com/photo-1617127365785-82f6ffb0ce4a?w=600&h=800&fit=crop',
+    image: 'https://images.unsplash.com/photo-1520975916090-3105956dac38?w=600&h=800&fit=crop&auto=format&q=80',
     slug: 'men'
   },
   {
