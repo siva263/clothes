@@ -43,7 +43,7 @@ const featuredProducts = [
     name: 'Leather Belt',
     price: 1499,
     originalPrice: 1999,
-    image: 'https://source.unsplash.com/eNEa7Gsfzzs/400x500',
+    image: ['/sections/photos.jpg'],
     category: 'Accessories',
     rating: 4.6,
     reviews: 203,
