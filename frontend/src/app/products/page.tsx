@@ -68,7 +68,7 @@ const mockProducts: Product[] = [
     name: 'Leather Belt',
     price: 1499,
     originalPrice: 1999,
-    images: ['https://images.unsplash.com/photo-1544966503-7e3c40c8edc5?w=400&h=500&fit=crop'],
+    images: ['https://source.unsplash.com/eNEa7Gsfzzs/400x500'],
     category: 'Accessories',
     slug: 'leather-belt',
     description: 'Premium leather belt with classic buckle',
